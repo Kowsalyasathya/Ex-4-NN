@@ -155,6 +155,9 @@ for i in predicted_values:
 <H3>Output:</H3>
 
 ![Screenshot 2024-09-27 090727](https://github.com/user-attachments/assets/ef323076-106b-43a7-89f9-4b4a3e22038c)
+
+
+
 ![Screenshot 2024-09-27 091323](https://github.com/user-attachments/assets/05486130-80b3-4809-b96d-33bdde5a377d)
 
 
